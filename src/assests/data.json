@@ -1,0 +1,43 @@
+{
+    "projects": [
+      
+      {
+        
+        "title": "Weather Report Application",
+        "description": "This Weather Report Application is built using Javascript, ReactJS and Tailwind CSS for styling. It provides users with up-to-date weather information for their desired locations.",
+        "url": "https://weather-report-application.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-vector/realistic-weather-widget_1284-4092.jpg?w=740&t=st=1708341607~exp=1708342207~hmac=452fcdc7ec0016afab2eeb6eaf7293faac919efbcca422cc1e760be5206e9629"
+      },
+      
+      {
+        
+        "title": "Movies Search Bar",
+        "description": "Created a search bar of movies by DOM manipulation using omdb api..",
+        "url": "https://movies-search-bar.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-photo/businessman-hand-touching-search-icon-bar-seo-search-engine-optimisation-marketing-survey-concept-by-3d-render-illustration_616485-114.jpg?w=996&t=st=1708341272~exp=1708341872~hmac=3697dfa9aef3417e2e7a6657176edf133cae2d1984716e43907be17190db4d0e"
+      },
+      {
+        
+        "title": "Solar System",
+        "description": "This UI presents a simple visual representation of the solar system using HTML and CSS.",
+        "url": "https://solar-system-space.vercel.app/",
+        "imgSrc": "https://cdn.mos.cms.futurecdn.net/DQyNHder4hmYdLZ4Wf5oS3-970-80.jpg.webp"
+      },
+  
+      {
+        
+        "title": "TECHY STAR",
+        "description": "This is a service provider website. Uses the react and Scss for the front end. The website is fully responsive and has a good user interface",
+        "url": "https://my-first-app-red.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        
+        "title": "PORTFOLIO",
+        "description": "This is my portfolio website. Uses the react and Scss for the front end and firebase for the backend. The website is fully responsive and has a good user interface.",
+        "url": "/",
+        "imgSrc": "https://i0.wp.com/curiositygym.com/wp-content/uploads/2022/05/portfolio1.jpg?fit=1024%2C576&ssl=1"
+      }
+    ]
+  }
